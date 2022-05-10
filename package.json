@@ -1,7 +1,6 @@
 {
-  "name": "07-REST-SERVER-INICIO",
+  "name": "07-rest-server-inicio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node app"
@@ -15,6 +14,16 @@
     "dotenv": "^16.0.0",
     "express": "^4.18.0",
     "express-validator": "^6.14.0",
-    "mongoose": "^6.3.1"
-  }
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalvarezDatec/Rest-Server-Base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KalvarezDatec/Rest-Server-Base/issues"
+  },
+  "homepage": "https://github.com/KalvarezDatec/Rest-Server-Base#readme",
+  "description": ""
 }
